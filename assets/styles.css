@@ -107,10 +107,10 @@ a.button7:hover { background: #666666; }
   color: white;
   font-size: 100%;
   margin-top: 50px;
-  margin-left: -180px;
+  margin-left: -300px;
 }
 
 .menu {
-  margin-left: -270px;
+  margin-left: 85px;
   margin-top: -600px;
 }
