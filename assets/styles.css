@@ -85,13 +85,6 @@ a.button7:hover { background: #666666; }
     }
 }
 
-.menu {
-  width: 100%;
-  display: table;
-  margin-left: -125px;
-  margin-top: -600px;
-}
-
 .menu ul {
   display: table-row;
 }
@@ -109,4 +102,11 @@ a.button7:hover { background: #666666; }
   font-size: 100%;
   margin-top: 50px;
   margin-left: -240px;
+}
+
+.menu {
+  width: 100%;
+  display: table;
+  margin-left: -125px;
+  margin-top: -600px;
 }
