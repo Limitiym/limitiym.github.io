@@ -88,7 +88,8 @@ a.button7:hover { background: #666666; }
 .menu {
   width: 100%;
   display: table;
-  margin-left: -1400px;
+  margin-left: -125px;
+  margin-top: -600px;
 }
 
 .menu ul {
@@ -101,16 +102,11 @@ a.button7:hover { background: #666666; }
 
 .menu li a {
   display: block;
-  padding: 8px 0px;
+  padding: 0px 0px;
   text-align: center;
   text-decoration: none;
   color: white;
   font-size: 100%;
   margin-top: 50px;
-  margin-left: -300px;
-}
-
-.menu {
-  margin-left: 85px;
-  margin-top: -600px;
+  margin-left: -240px;
 }
