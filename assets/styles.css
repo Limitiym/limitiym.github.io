@@ -38,11 +38,12 @@ body, html {
 
 .text_down {
   color: white;
-  margin-top: -0.4em;
-  margin-left: 0.55em;
+  margin-top: 0.3em;
   height: 25px;
-  display: block;
-  border: none;
+  padding: 0px 0px 0px 17px;
+  width: 290px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .block {
@@ -55,28 +56,27 @@ body, html {
 
 }
 
-.text_on_center_of_screen h1, .text_on_center_of_screen h2, .text_on_center_of_screen a {
-  width: 400px;
-  padding: 15px;
+.text_on_center_of_screen h1, .text_on_center_of_screen a {
+    width: 400px;
+    padding: 15px;
+    display: block;
+    margin-right: auto;
 }
 
 .button7 {
-  font-weight: 700;
-  color: white;
-  text-decoration: none;
-  font-family: "Arial";
-  padding: .8em 1em calc(.8em + 3px);
-  border-radius: 3px;
-  background: #444444;
-  box-shadow: 0 -3px #292929 inset;
-  transition: 0.2s;
-  margin-left: 30%;
-  margin-bottom: 30px;
-  max-width: 115%;
-  height: auto;
-  display: block;
-  margin: 0 0 0 35px;
-  border: none;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    font-family: "Arial";
+    border-radius: 3px;
+    background: #444444;
+    box-shadow: 0 -3px #292929 inset;
+    transition: 0.2s;
+    max-width: 115%;
+    height: auto;
+    margin: 0 0 0 2.5px;
+    border: none;
+    margin-top: 34px;
 }
 a.button7:hover { background: #666666; }
     a.button7:active {
